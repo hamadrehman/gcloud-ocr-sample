@@ -21,8 +21,8 @@ A robust image processing and OCR pipeline that successfully extracted and proce
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf-ocr-pipeline
-cd pdf-ocr-pipeline
+git clone https://github.com/hamadrehman/gcloud-ocr-sample
+cd gcloud-ocr-sample
 ```
 
 2. Install required packages:
